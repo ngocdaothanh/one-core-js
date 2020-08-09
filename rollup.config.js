@@ -3,6 +3,7 @@ import resolve from '@rollup/plugin-node-resolve';
 
 export default {
   input: 'main.js',
+  treeshake: false,
   output: {
     file: 'es6polyfills.js',
     format: 'iife'

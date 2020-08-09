@@ -1,4 +1,4 @@
-Demo showing how to merge
+Demo showing how to merge (bundle)
 [core-js](https://github.com/zloirock/core-js)
 polyfill files into one file, using
 [rollup](https://rollupjs.org/)
